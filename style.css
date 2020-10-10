@@ -1,0 +1,455 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;  
+}
+.preheader {
+    background-color: #E4FAF4;
+    height: 30px;
+}
+.right-text {
+   justify-content: flex-end;
+    display: flex;
+    position: relative;
+    bottom: 12px;
+    right: 64px;
+}
+.right-text p {
+    margin-right: 8px;
+}
+.rightt{
+    margin-right: 8px;
+}
+header {
+  display: flex; 
+}
+.imgr {
+    position: relative;
+    left: 60px;
+
+}
+.imgsearch{
+    margin-right: 8px;
+}
+.righttext2 {
+    justify-content: flex-end;
+    display: flex;
+    position: relative;
+    left: 19em;
+
+}
+.righttext2 p {
+    margin-right: 34px;
+}
+.search{
+    color: #C1C9C7;
+}
+
+.one {
+    height: 600px;
+    display: flex;
+}
+.welcome-text {
+flex: 1;
+text-align: justify;
+align-self: center;
+position: relative;
+left: 142px;
+}
+.welcome-image {
+    flex: 1;
+    text-align: center;
+}
+.welcome-image img {
+    position: relative;
+    top: 30px;
+    height: 537pxpx;
+    width: 80%;
+}
+.get-start-btn {
+    width: 150px;
+    background-color: #00D09C;
+    border-radius: 4px;
+    padding: 12px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+}
+.welcome-desc {
+    width: 360px;
+    line-height: 22px;
+    color: #8C8C8C;
+}
+.middle{
+    display: flex;
+    background-color: #E4FAF4;
+}
+.middletext{
+    flex: 1;
+    text-align: justify;
+    align-self: center;
+    position: relative;
+    left: 135px;
+    
+}
+.middletext p{
+    width: 401px;
+    color: #8C8C8C;
+}
+.middleimg{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+.middleimg img {
+    margin: 0px 18px;
+    padding: 0 28px;
+    border: 1px solid #76D7C4;
+}
+.two{
+    height: 700px;
+    display: flex;
+    align-items: center;
+}
+.welcomeimage2{
+    flex: 1;
+    text-align: center;
+   
+    
+}
+.welcomeimage2 img{
+    position: relative;
+    top: 30px;
+    height: 460px;
+
+}
+.welcometext2{
+    flex: 1;
+    margin-left: 180px;
+}
+.welcometext2 p {
+ display: flex; 
+ align-items: center;  
+}
+.welcometext2 img {
+    margin-right: 12px;
+}
+.watch-vid-text {
+    margin-left: 24px;
+    color: #12D3A3;
+    font-weight: bold;
+}
+.watch-vid-text img {
+    margin-left: 12px;
+}
+.knowmore-btn{
+    width: 150px;
+    background-color: #00D09C;
+    border-radius: 4px;
+    padding: 18px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    align-self: center
+}
+.watchandknow{
+    display: flex;
+}
+.three{
+    height: 600px;
+    display: flex;
+    background-image: linear-gradient(to bottom, #E4FAF4, white);
+
+}
+.welcometext3{
+    flex: 1;
+    position: relative;
+    top: 180px;
+}
+.three-titles {
+    position: relative;
+    left: 105px;
+    width: fit-content;
+}
+.welcomeimg3{
+    flex: 1;
+    text-align: center;
+    margin-top: 83px;
+    margin-left: 68px;
+}
+.invest {
+    margin-left: 100px;
+}
+.schedule{
+    margin-left: 132px;
+}
+.investnow-btn{
+    width: 150px;
+    background-color: #00D09C;
+    border-radius: 4px;
+    padding: 12px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+
+}
+.schedule h3{
+margin-top: 25px;
+}
+.schedulenow-btn{
+    width: 150px;
+    background-color: #00D09C;
+    border-radius: 4px;
+    padding: 12px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    margin-top: 34px;
+}
+.bg-green {
+    background-color: #E8F9F5;
+    padding: 18px;
+    border-radius: 4px;
+}
+.ask{
+    display: flex;
+    position: relative;
+    top: 60px;
+    justify-content: center;
+}
+.pre-footer{
+    height: 500px;
+    display: flex;
+    margin-top: 200px;
+    
+    
+}
+.pre-footer-cnt{
+    text-align: center;
+    margin-top: 114px;
+    position: absolute;
+    left: 33%;
+
+}
+.pre-footer-img{
+    display: flex;
+    position: relative;
+    margin-left: 45px;
+}
+.pre-footer-img1{
+    margin-left: 19px;
+}
+
+.footer{
+    height: 300px;
+    display: flex;
+}
+.footer1{
+    flex: 2;
+    
+}
+.footerlogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 108px;
+}
+.footer2{
+    flex: 1;
+}
+.footer3{
+    flex: 1;
+    margin-left: 74px;
+}
+.footer4{
+    flex: 1;
+}
+.footer4-down{
+    margin-top: 56px;
+}
+
+.endfooter {
+    height: 35px;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #EAECEE;
+}
+.endfooter-img{
+    position: absolute;
+    right: 180px;
+}
+.endfooter-img img {
+    padding-right: 8px;
+}
+.chat{
+    position: absolute;
+    left: 168%;
+}
+.copyright {
+    color: #989898;
+    font-size: 12px;
+    position: relative;
+    left: 28px;
+}
+
+
+/* Responsive Begins */
+
+
+@media screen and (max-width: 768px) {
+.righttext2 {
+    left: 12px;
+}
+.righttext2 p {
+    margin-right: 18px;
+}
+.welcometext2 {
+    margin-left: 0;
+}
+.middletext {
+    left: 40px;
+    margin-right: 40px;
+}
+.middleimg img {
+    margin: 0px 8px;
+    width: 10%;
+}
+.one {
+    height: 460px;
+    align-items: center;
+}
+.welcome-text {
+    left: 40px;
+}
+.welcometext3 {
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+.schedulenow-btn {
+    margin-top: 0;
+}
+.three {
+    height: 500px;
+}
+.three-titles {
+    width: auto;
+    top: 40px;
+    left: 0;
+}
+.invest, .schedule, .welcomeimg3 {
+   text-align: justify;
+}
+.invest {
+    pad: 0 100px;
+}
+.schedule {
+    margin: 0 80px;
+}
+.welcomeimg3 {
+    display: none;
+}
+.welcomeimg3 img {
+    width: 200px;
+}
+.pre-footer{
+    margin-top: 0;
+    justify-content: center;
+    height: auto;
+}
+.pre-footer-cnt {
+    left: auto;
+    margin-top: 0;
+    position: relative;
+}
+.footer1{
+    flex: 1;
+}
+.footerlogo{
+    width: 80%;
+}
+.endfooter-img{
+    right: 80px;
+}
+.chat {
+    position: static;
+}
+.imgr {
+    position: absolute;
+    left: 12px;
+    top: 0px;
+}
+.right-text{
+    right: 16px;
+}
+}
+
+
+
+/* Mobile View */
+
+
+@media screen and (max-width: 411px) {
+.right-text, .righttext2, .welcome-image, .middleimg {
+    display: none;
+}
+.two {
+    height: auto;
+    flex-direction: column;
+    margin-bottom: 12px;
+}
+.welcometext2 {
+    margin-top: 12px;
+}
+.welcometext3 {
+    width: 0;
+}
+.three {
+    height: 780px;
+}
+.ask {
+    flex-direction: column;
+    text-align: center;
+    text-align: -webkit-center;
+}
+.invest, .schedule {
+    text-align: inherit;
+}
+.invest {
+    margin-left: 0;
+    margin-bottom: 24px;
+}
+.chat {
+    display: none;
+}
+.footer {
+    flex-direction: column;
+    text-align: center;
+    height: auto;
+}
+.footer3 {
+    margin-left: 0;
+}
+.endfooter {
+    justify-content: center;
+}
+.endfooter-img {
+    position: relative;
+    left: 10px;
+}
+.copyright {
+    left: 0;
+}
+.middletext {
+    left: 4px;
+    margin-right: 0;
+    text-align: center;
+}
+.welcome-text {
+    left: 0;
+    text-align: center;
+    text-align: -webkit-center;
+}
+}
